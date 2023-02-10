@@ -1,5 +1,9 @@
 # pyCommerce
 
+- A eCommerce made with Django.
+
+- commands used in this project:
+
 1. Criando o ambiente virtual 
 ````bash
 python3 -m venv env
@@ -20,6 +24,8 @@ django-admin startproject ProjectName
 ````bash
 python3 manage.py runserver
 ````
+
+6. Starting a app on django
 ```bash
 python manage.py startapp core
 ```
